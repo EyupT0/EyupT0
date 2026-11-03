@@ -1,16 +1,22 @@
-## Hi there 👋
+# Merhaba, Ben Eyüb 👋
 
-<!--
-**EyupT0/EyupT0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bursa Uludağ Üniversitesi Bilgisayar Mühendisliği öğrencisiyim. Yazılım geliştirme, web teknolojileri ve algoritma tasarımı üzerine çalışıyorum.
 
-Here are some ideas to get you started:
+## 🚀 Hakkımda
+- 🎓 **Eğitim:** Bursa Uludağ Üniversitesi - Bilgisayar Mühendisliği (1. Sınıf)
+- 💻 **İlgilendiğim Alanlar:** Web Geliştirme, Python Scripting, Algoritma Tasarımı
+- 📚 **Şu an Öğrendiklerim:** Python, HTML/CSS, Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Yabancı Diller
+- 🇹🇷 **Türkçe:** Ana Dil (Native)
+- 🇬🇧 **İngilizce:** Orta Seviye (B1/B2 - Geliştirmeye Devam Ediyor)
+
+## 🛠 Teknolojiler ve Araçlar
+- **Programlama & Web Dilleri:** Python, HTML5, CSS3
+- **Ortamlar & Araçlar:** VS Code, Git, GitHub
+
+## 📬 İletişim
+- **E-posta:** eyuptuncil0@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/eyüp-tuncil-b80055449/
+
+---
