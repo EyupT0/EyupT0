@@ -1,6 +1,6 @@
 # Merhaba, Ben Eyüb 👋
 
-Bursa Uludağ Üniversitesi Bilgisayar Mühendisliği öğrencisiyim. Yazılım geliştirme, web teknolojileri ve algoritma tasarımı üzerine çalışıyorum.
+Bursa Uludağ Üniversitesi Bilgisayar Mühendisliği öğrencisiyim. Yazılım geliştirme, web teknolojileri ve algoritma tasarımı üzerine öğreniyorum.
 
 ## 🚀 Hakkımda
 - 🎓 **Eğitim:** Bursa Uludağ Üniversitesi - Bilgisayar Mühendisliği (1. Sınıf)
