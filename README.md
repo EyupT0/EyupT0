@@ -11,10 +11,6 @@ Bursa Uludağ Üniversitesi Bilgisayar Mühendisliği öğrencisiyim. Yazılım 
 - 🇹🇷 **Türkçe:** Ana Dil (Native)
 - 🇬🇧 **İngilizce:** Orta Seviye (B1/B2 - Geliştirmeye Devam Ediyor)
 
-## 🛠 Teknolojiler ve Araçlar
-- **Programlama & Web Dilleri:** Python, HTML5, CSS3
-- **Ortamlar & Araçlar:** VS Code, Git, GitHub
-
 ## 📬 İletişim
 - **E-posta:** eyuptuncil0@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/eyüp-tuncil-b80055449/
